@@ -1,0 +1,10 @@
+Tue, 25 Jul 2017 09:51:23 AnalysisJmeter.py[line:58] INFO 提取头文件
+Tue, 25 Jul 2017 09:51:23 AnalysisJmeter.py[line:93] INFO 提取url
+Tue, 25 Jul 2017 09:51:23 AnalysisJmeter.py[line:111] INFO 提取post数据
+Tue, 25 Jul 2017 09:51:23 connectionpool.py[line:818] DEBUG Starting new HTTPS connection (1): apis.bmkp.cn
+Tue, 25 Jul 2017 09:51:24 connectionpool.py[line:395] DEBUG https://apis.bmkp.cn:443 "POST /driver/v400/zebra/walker/verifycode HTTP/1.1" 200 71
+Tue, 25 Jul 2017 09:51:24 AnalysisJmeter.py[line:58] INFO 提取头文件
+Tue, 25 Jul 2017 09:51:24 AnalysisJmeter.py[line:93] INFO 提取url
+Tue, 25 Jul 2017 09:51:24 AnalysisJmeter.py[line:111] INFO 提取post数据
+Tue, 25 Jul 2017 09:51:24 connectionpool.py[line:818] DEBUG Starting new HTTPS connection (1): apis.bmkp.cn
+Tue, 25 Jul 2017 09:51:24 connectionpool.py[line:395] DEBUG https://apis.bmkp.cn:443 "POST /driver/v400/zebra/walker/login HTTP/1.1" 200 1702
